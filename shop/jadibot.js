@@ -26,7 +26,7 @@ return`╭──「 📖  *PRICE JADIBOT*」
 │
 │ ⤷ _Tidak perlu termux_
 │ ⤷ _Minat? Hubungi 0887435047326_
-│
+│   _owner bot : 0881027203521_
 ╰──「 *Thank's* 」
 `
 }
