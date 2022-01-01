@@ -13,7 +13,7 @@
     </p>
 
 -------
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Juala/PEPE-SIR-Qr-code?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Juala/ALPHAB0T-11-Qr-code?v=1)
 ## `ADD BUILDPACK`
 
 ```
